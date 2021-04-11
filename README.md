@@ -18,17 +18,25 @@ past employment verification.
  
 What makes this application better than other? 
 # FEAUTURES:
-1. JOB MATCHING TOOLS: After taking your job preferences the application very quickly gives you the feed 
+### JOB MATCHING TOOLS: 
+   After taking your job preferences the application very quickly gives you the feed 
    regarding the job available and you can customize them as many times you want.
-2. JOBS BY YOUR LOCATION:  You can enable your location to find nearest job opportunities.
-3. VERIFIED JOBS: JIVIKA is all a trustworthy application which tries to provide, a 100% safety to their users.
-4. NOTIFICATIONS OF SELECTED COMPANIES: You can get notifications from the companies you interested at directly
+### JOBS BY YOUR LOCATION:
+   You can enable your location to find nearest job opportunities.
+### VERIFIED JOBS:
+   JIVIKA is all a trustworthy application which tries to provide, a 100% safety to their users.
+### NOTIFICATIONS OF SELECTED COMPANIES:
+   You can get notifications from the companies you interested at directly
    for interviews or vacancies at their work.
-5. JOB UPDATES: You can get all newly posted job details at our feed basing on our preferences and your location.
-6. EXPERICENCE UPDATES: If you registered any job from this application and finished that and you will get your
+### JOB UPDATES:
+   You can get all newly posted job details at our feed basing on our preferences and your location.
+### EXPERICENCE UPDATES:
+   If you registered any job from this application and finished that and you will get your
    paycheck with your updated profile experience.
-7. COMPLETELY FREE OF COST: This application helps you to connect to your work with all profits available free of cost.
-8. SIMPLE APPLICATIONS: All you need to do is the sign up and you will enter the JIVIKA Family and we will 
+### COMPLETELY FREE OF COST:
+   This application helps you to connect to your work with all profits available free of cost.
+### SIMPLE APPLICATIONS:
+   All you need to do is the sign up and you will enter the JIVIKA Family and we will 
    guide you how to use this and get success.
   
 # OFFERINGS:
