@@ -1,7 +1,7 @@
 # Jivika
 This application is to introduce a new easy way in searching jobs for all daily wages and laborers.
 
-# OVERVIEW:
+# OVERVIEW
 "JIVIKA" celebrating chances with infinite choices for all.
 This application is for domestic drudgery wages.
 The project offers help to the poorer section of society which comprises almost 37% Indian population 
@@ -17,7 +17,7 @@ with a customize option,increasing your chances of working.You can even carry a 
 past employment verification.
  
 What makes this application better than other? 
-# FEAUTURES:
+# FEAUTURE
 ### JOB MATCHING TOOLS: 
    After taking your job preferences the application very quickly gives you the feed 
    regarding the job available and you can customize them as many times you want.
@@ -39,19 +39,19 @@ What makes this application better than other?
    All you need to do is the sign up and you will enter the JIVIKA Family and we will 
    guide you how to use this and get success.
   
-# OFFERINGS:
+# OFFERINGS
    New job updates, benefits, extra pay for quick work, record of your working hours and income(But this application 
    does save any of your personal info or payments regards*),free transport and free food benefits by specific
    companies are also provided
-# REQUIREMENT CRITERIA:
+# REQUIREMENT CRITERIA
    Based on your preferences of part time or full time jobs - shift timings.
    No third party involved, Get info about day off ,register for a job from JIVIKA, and get your account verified(safety measures*)
    you can also find out if any documents or personal identification (aadhar card*) need to be produced to apply.
-# COMPANY DETAILS:
+# COMPANY DETAILS
    We need to provide verified and safe hiring jobs to our users. So company go through a complete background 
    verification to get their desired workers.
 
-# MILESTONES AND SDGs COVERED:
+# MILESTONES AND SDGs COVERED
 ## SDG 1: Poverty 
   Raising Standard pay of the majority of poorer sections of society.
   
