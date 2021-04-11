@@ -42,3 +42,17 @@ What makes this application better than other?
 # COMPANY DETAILS:
    We need to provide verified and safe hiring jobs to our users. So company go through a complete background 
    verification to get their desired workers.
+
+MILESTONES AND SDGs COVERED:
+# SDG 1: Poverty 
+  Raising Standard pay of the majority of poorer sections of society.
+  
+# SDG 8: Decent Work and Economic Growth
+  A sustained system ensuring workflow, social security, and fair income, also amounting to financial flow and helping the economy up. Multiple vacancies will be created for the   people belonging to high-tech, low-tech, no-tech, and social backgrounds.
+  
+# SDG 10: Reduced Inequalities
+  And to minimize the difference between the richer and the poorer sections of society.
+  
+# SDG 5: Gender Equality
+  Via SEO, AI and several other tools look forward to equally benefit women.
+
